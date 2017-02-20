@@ -1,2 +1,2 @@
-# @TEST-EXEC: bro -NN Bro::TCPRS >output
+# @TEST-EXEC: bro -NN jswaro::TCPRS >output
 # @TEST-EXEC: btest-diff output

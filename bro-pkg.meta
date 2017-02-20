@@ -1,5 +1,7 @@
 [package]
 description = TCP Retransmission and State Analyzer plugin for Bro.
-tags = bro plugin, TCP, retransmission, connection state
+tags = bro plugin, TCP, retransmission, connection state, conn, input reader, protocol analyzer
 build_command = ( ./configure --bro-dist=%(bro_dist)s && make )
 plugin_dir = build
+script_dir = scripts
+test_command = cd tests btest -d tcprs
