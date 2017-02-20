@@ -26,4 +26,4 @@ distclean:
 	rm -rf $(cmake_build_dir)
 
 test:
-	if [ -f build/lib/Bro-* ]; then make -C tests; else echo "Plugin not built."; fi
+	if [ -f build/lib/jswaro-* ]; then make -C tests; else echo "Plugin not built."; fi
