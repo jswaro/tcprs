@@ -1,0 +1,15 @@
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/install.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/rebuild_cache.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/edit_cache.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/Bro-TCPRS.linux-x86_64.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/generate_outputs.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/bif-plugin-Bro_TCPRS-tcprs_const.bif.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/bif-plugin-Bro_TCPRS-tcprs.bif.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/copy-bif-Bro_TCPRS.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/bif-init-Bro_TCPRS.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/copy-scripts-Bro_TCPRS.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/install/local.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/dist.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/bro-plugin-Bro_TCPRS.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/list_install_components.dir
+/home/jswaro/src/bro-plugins/tcprs/build/CMakeFiles/install/strip.dir

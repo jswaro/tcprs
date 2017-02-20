@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/src/Plugin.cc.o -c /home/jswaro/src/bro-plugins/tcprs/src/Plugin.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/src/Plugin.cc"
+},
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/src/TCPRS.cc.o -c /home/jswaro/src/bro-plugins/tcprs/src/TCPRS.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/src/TCPRS.cc"
+},
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/src/TCPRS_Endpoint.cc.o -c /home/jswaro/src/bro-plugins/tcprs/src/TCPRS_Endpoint.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/src/TCPRS_Endpoint.cc"
+},
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/src/TCPRS_Support.cc.o -c /home/jswaro/src/bro-plugins/tcprs/src/TCPRS_Support.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/src/TCPRS_Support.cc"
+},
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/src/TCPRS_Debug.cc.o -c /home/jswaro/src/bro-plugins/tcprs/src/TCPRS_Debug.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/src/TCPRS_Debug.cc"
+},
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/tcprs.bif.cc.o -c /home/jswaro/src/bro-plugins/tcprs/build/tcprs.bif.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/build/tcprs.bif.cc"
+},
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/tcprs.bif.init.cc.o -c /home/jswaro/src/bro-plugins/tcprs/build/tcprs.bif.init.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/build/tcprs.bif.init.cc"
+},
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/tcprs.bif.register.cc.o -c /home/jswaro/src/bro-plugins/tcprs/build/tcprs.bif.register.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/build/tcprs.bif.register.cc"
+},
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/tcprs_const.bif.cc.o -c /home/jswaro/src/bro-plugins/tcprs/build/tcprs_const.bif.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/build/tcprs_const.bif.cc"
+},
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/tcprs_const.bif.init.cc.o -c /home/jswaro/src/bro-plugins/tcprs/build/tcprs_const.bif.init.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/build/tcprs_const.bif.init.cc"
+},
+{
+  "directory": "/home/jswaro/src/bro-plugins/tcprs/build",
+  "command": "/usr/bin/c++   -DBRO_PLUGIN_INTERNAL_BUILD=false -DBro_TCPRS_linux_x86_64_EXPORTS -I/home/jswaro/src/bro-plugins/tcprs/src -I/home/jswaro/src/bro-plugins/tcprs -I/home/jswaro/src/bro-plugins/tcprs/build/src -I/home/jswaro/src/bro-plugins/tcprs/build -I/home/jswaro/src/bro/build/aux/binpac/lib -I/home/jswaro/src/bro/build/src -I/home/jswaro/src/bro/build -I/home/jswaro/src/bro/aux/binpac/lib -I/home/jswaro/src/bro/src   -std=c++11 -Wall -Wno-unused  -Wall -Wno-unused -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Bro-TCPRS.linux-x86_64.dir/tcprs_const.bif.register.cc.o -c /home/jswaro/src/bro-plugins/tcprs/build/tcprs_const.bif.register.cc",
+  "file": "/home/jswaro/src/bro-plugins/tcprs/build/tcprs_const.bif.register.cc"
+}
+]
