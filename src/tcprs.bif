@@ -14,7 +14,7 @@ module TCPRS;
 ## Returns: true if communication is successfully initialized.
 function EnableTCPRSAnalyzer%(%): bool
 	%{
-	return new Val(plugin::Bro_TCPRS::EnableTCPRS(), TYPE_BOOL);
+	return new Val(plugin::jswaro_TCPRS::EnableTCPRS(), TYPE_BOOL);
 	%}
 
 event conn_spurious_dsack%(c: connection, timestamp: time , seq:count, is_orig:bool, rtt:double, state:int, o_seq:count, beg_seq:count, end_seq:count, reason:int, rtype:int%);

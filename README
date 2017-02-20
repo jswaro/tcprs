@@ -14,7 +14,7 @@ The following forms of events are available in the TCPRS analyzer:
     - Network reordering detection and classification
     - RTT and initial RTO measurements
 
-To activate all of the new functionality, load ``Bro/TCPRS``. To use
+To activate all of the new functionality, load ``jswaro/TCPRS``. To use
 the analyzer without the use of any of the provided scripts, you can
 enable it inside a ``bro_init`` handler::
 
