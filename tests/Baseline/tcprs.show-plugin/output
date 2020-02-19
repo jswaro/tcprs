@@ -1,4 +1,4 @@
-jswaro::TCPRS - A TCP retransmission and network reordering detection and classification analyzer (dynamic, version 0.2)
+jswaro::TCPRS - A TCP retransmission and network reordering detection and classification analyzer (dynamic, version)
     [Analyzer] TCPRS (ANALYZER_TCPRS, enabled)
     [Function] TCPRS::EnableTCPRSAnalyzer
     [Event] TCPRS::conn_spurious_dsack
