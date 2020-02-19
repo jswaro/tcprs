@@ -4,4 +4,4 @@ tags = bro plugin, TCP, retransmission, connection state, conn, input reader, pr
 build_command = ( ./configure --bro-dist=%(bro_dist)s && make )
 plugin_dir = build
 script_dir = scripts
-test_command = cd tests btest -d tcprs
+test_command = cd tests && btest -d tcprs
